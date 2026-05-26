@@ -26,6 +26,7 @@
 <p align="center">
   <img src="images/reshuidai.png" width="300" alt="热水袋热敷腰椎间盘突出">
 </p>
+
 > *上图仅为网图示意，热水袋为普通市售产品，请自行选购。*
 
 ### 2. 暖宝宝（夜用热敷）🌙
