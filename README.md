@@ -1,13 +1,6 @@
-<div align="center">
-
-
 # 腰椎间盘突出有什么好的锻炼方法？
 
-
 > *十三年腰突患者亲历：从疼到无法正常生活，到基本恢复，我的低成本锻炼与恢复方案*
-
-
-</div>
 
 ---
 
@@ -26,27 +19,21 @@
 ### 1. 热水袋（日用热敷）☀️
 白天灌热水，别在裤腰带上，持续温热敷腰部，促进血液循环。
 
-<p align="center">
-  <img src="images/reshuidai.png" width="300" alt="热水袋热敷腰椎间盘突出">
-</p>
+![热水袋热敷腰椎间盘突出](images/reshuidai.png)
 
 > *上图仅为网图示意，热水袋为普通市售产品，请自行选购。*
 
 ### 2. 暖宝宝（夜用热敷）🌙
 晚上贴一片在疼痛位置，整夜温热，帮助消水肿、活气血。
 
-<p align="center">
-  <img src="images/luanbaobao.png" width="300" alt="暖宝宝热敷腰椎间盘突出">
-</p>
+![暖宝宝热敷腰椎间盘突出](images/luanbaobao.png)
 
 > *上图仅为网图示意，暖宝宝为普通市售产品，请自行选购。*
 
 ### 3. 腰枕（睡觉时锻炼+矫形）🛏️
 垫在腰下，利用身体自重温和锻炼腰部深层肌肉，同时调节脊柱位置。
 
-<p align="center">
-  <img src="images/yaozheng.png" width="300" alt="腰枕锻炼腰椎间盘突出">
-</p>
+![腰枕锻炼腰椎间盘突出](images/yaozheng.png)
 
 > *上图仅为网图示意，腰枕为普通市售产品，请自行选购。*
 
@@ -124,21 +111,15 @@
 
 如果能给同样在痛苦中寻找出路的你一点启发，就是我写下这些字的最大意义。
 
-<div align="center">
+---
 
 ### ☕ 如果这篇文章对你有帮助，欢迎请我喝杯热茶
 
 | 微信打赏 | 支付宝打赏 |
 | :---: | :---: |
-| <img src="images/weixin.png" width="200" alt="微信打赏码"> | <img src="images/zhifubao.jpg" width="200" alt="支付宝打赏码"> |
-
-</div>
+| ![微信打赏码](images/weixin.png) | ![支付宝打赏码](images/zhifubao.jpg) |
 
 ---
 
-<div align="center">
-
 > 📌 本文首发于 GitHub Pages，原创不易，转载烦请注明出处  
 > 🔍 关键词：腰椎间盘突出 锻炼方法 腰枕 热敷 自重训练 腰突恢复
-
-</div>
