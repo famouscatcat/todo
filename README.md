@@ -35,6 +35,7 @@
 <p align="center">
   <img src="images/luanbaobao.png" width="300" alt="暖宝宝热敷腰椎间盘突出">
 </p>
+
 > *上图仅为网图示意，暖宝宝为普通市售产品，请自行选购。*
 
 ### 3. 腰枕（睡觉时锻炼+矫形）🛏️
@@ -43,6 +44,7 @@
 <p align="center">
   <img src="images/yaozheng.png" width="300" alt="腰枕锻炼腰椎间盘突出">
 </p>
+
 > *上图仅为网图示意，腰枕为普通市售产品，请自行选购。*
 
 ---
